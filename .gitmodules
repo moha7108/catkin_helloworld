@@ -1,7 +1,3 @@
-[submodule "src/src/simple_arm"]
-	path = src/src/simple_arm
-	url = https://github.com/udacity/RoboND-simple_arm/
-	branch = first_interaction
 [submodule "src/simple_arm"]
 	path = src/simple_arm
 	url = https://github.com/udacity/RoboND-simple_arm/
