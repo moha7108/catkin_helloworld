@@ -7,4 +7,5 @@
 # new environment variables
 
 # modified environment variables
+export PKG_CONFIG_PATH="/home/moha_linux/Repositories/catkin_helloworld/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/moha_linux/Repositories/catkin_helloworld/build'
